@@ -1,3 +1,4 @@
+--extra-index-url ${PIP_EXTRA_INDEX_URL}
 
 # api
 flask==1.0.2
@@ -6,5 +7,4 @@ flask==1.0.2
 marshmallow==2.17.0
 
 # Install from gemfury
---index-url ${PIP_EXTRA_INDEX_URL}
 regression-model==0.1.0
